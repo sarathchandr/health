@@ -1,0 +1,14 @@
+C:\Users\17lemca040\Documents\Health\IMS.Data\bin\Debug\IMS.Data.dll.config
+C:\Users\17lemca040\Documents\Health\IMS.Data\bin\Debug\IMS.Data.dll
+C:\Users\17lemca040\Documents\Health\IMS.Data\bin\Debug\IMS.Data.pdb
+C:\Users\17lemca040\Documents\Health\IMS.Data\bin\Debug\EntityFramework.dll
+C:\Users\17lemca040\Documents\Health\IMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\17lemca040\Documents\Health\IMS.Data\bin\Debug\IMS.Entities.dll
+C:\Users\17lemca040\Documents\Health\IMS.Data\bin\Debug\IMS.Entities.pdb
+C:\Users\17lemca040\Documents\Health\IMS.Data\bin\Debug\EntityFramework.xml
+C:\Users\17lemca040\Documents\Health\IMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\17lemca040\Documents\Health\IMS.Data\obj\Debug\IMS.Data.csprojResolveAssemblyReference.cache
+C:\Users\17lemca040\Documents\Health\IMS.Data\obj\Debug\IMS.Data.Migrations.Offer.resources
+C:\Users\17lemca040\Documents\Health\IMS.Data\obj\Debug\IMS.Data.csproj.GenerateResource.Cache
+C:\Users\17lemca040\Documents\Health\IMS.Data\obj\Debug\IMS.Data.dll
+C:\Users\17lemca040\Documents\Health\IMS.Data\obj\Debug\IMS.Data.pdb
